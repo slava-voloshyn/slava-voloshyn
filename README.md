@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="left">Some stats:</h3>
+<h3 align="left">Some stats: (Unfortunately, I don’t have any other statistics, and the one that is does not include information from private repositories)</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vyacheslav-voloshyn&show_icons=true&count_private=true&theme=radical" alt="Slava's GitHub Stats" width="500"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyacheslav-voloshyn&layout=compact&theme=radical" alt="Slava's Language Stats" width="380"/>
